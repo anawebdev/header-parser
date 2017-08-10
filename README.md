@@ -14,11 +14,11 @@
 
 ### Example output
 
-```{
-"ipaddress":"XXX.XXX.XXX.XXX",
-"language":"en-EN",
-"software":"Windows NT 10.0; Win64; x64"
-}```
+`{  
+"ipaddress":"XXX.XXX.XXX.XXX",  
+"language":"en-EN",  
+"software":"Windows NT 10.0; Win64; x64"  
+}`  
 
 ### Technologies used
 
